@@ -1,5 +1,5 @@
 # Introduction
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This repository contains various artifacts, such as source code, experimental results, and other materials, that supplement our work on **Unseen Log Anomaly Detection from System Logs**. This work proposes a novel framework for code file anomaly detection from system logs, UnseenLog. The figure below illustrates the overall architecture of UnseenLog. It comprises two key components that work in tandem to enhance the model’s generalization capability: (1) MinMax strategy; (2) Recurrent Iterative Selection and Enhancement.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This repository contains various artifacts, such as source code and other materials, that supplement our work on **Unseen Log Anomaly Detection from System Logs**. This work proposes a novel framework for code file anomaly detection from system logs, UnseenLog. The figure below illustrates the overall architecture of UnseenLog. It comprises two key components that work in tandem to enhance the model’s generalization capability: (1) MinMax strategy; (2) Recurrent Iterative Selection and Enhancement.
 ![UnseenLog framework diagram](https://github.com/zzxhelloworld/UnseenLog/blob/main/Artifact/framework.jpg)
 # Preliminaries: Getting ready for experiments
 >  Software requirements
