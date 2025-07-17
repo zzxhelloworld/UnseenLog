@@ -15,7 +15,7 @@
    ```
 3. Run code from the command line for experiments:
    ```bash
-   python3 --dataset_name <dataset> --dataset_id <split id> --device <device name> --num_epochs <training epoch> main.py
+   python3 --dataset_name <dataset> --dataset_id <split id> --device <device name> --num_epochs <training epoch> --gnn_type <GNN encoder> main.py
    ```
 
    
